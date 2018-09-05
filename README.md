@@ -18,9 +18,9 @@ Returns all scenes & general trail data for specific trail. Trail ids can be fou
  <br/>
 &embed - Returns embed url in place of general url
  <br/>
-&embed_map=1 Adds map to embedded trails
+&embed_map=1 Adds map to embedded trails *&embed required
  <br/>
-&embed_graph=1 Adds elevation graph to embedded trails
+&embed_graph=1 Adds elevation graph to embedded trails *&embed required
 
 ## Map JSON 
 
