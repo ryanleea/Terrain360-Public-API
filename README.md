@@ -2,7 +2,7 @@
 ## About
 
 Introducing the Terrain360 JSON API for third party map integration (Google Maps, ESRI/ARC GIS, Mapbox, Leaflet, etc). 
-Benefits include leveraging over 10 million points of data across 1000's of trails and maps collected by Terrain360 and partners. 
+Benefits include leveraging over +10 million points of data across 1000's of trails and maps collected by Terrain360 and partners. 
 
 Access is open to anyone upon request - To request an API Token and Account [Click Here](https://www.terrain360.com/about#contact)
 
