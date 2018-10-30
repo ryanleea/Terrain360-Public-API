@@ -37,6 +37,9 @@ Endpoint: https://terrain360.com/api/getMap/{id}?api_token={token} <br/>
  &embed_map=1 Adds map to embedded trails  *&embed required
  <br/>
  &embed_graph=1 Adds elevation graph to embedded trails *&embed required
+ 
+ ## Get Scene Options for ML/AI 
+ https://terrain360.com/api/getScene/{id}/{scene_id}?api_token={token}
 
  
 
