@@ -30,7 +30,7 @@ Endpoint: https://terrain360.com/api/getMap/{id}?api_token={token} <br/>
  <br/> <br/>
  **Additional Map options**
  <br/>
- &scenes - Returns all scenes for all trails 
+ &scenes - Returns all scenes for all trails ( used to build tracks in mapping platforms, includes thumb img for each scene ) 
  <br/>
  &embed -Returns all trail embed urls in place of general url
  <br/>
