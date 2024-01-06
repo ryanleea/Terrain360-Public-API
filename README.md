@@ -1,4 +1,4 @@
-# Terrain360-Public-API v1.1
+# Terrain360-Public-API v2.1
 ## About
 
 Introducing the Terrain360 JSON API for third party map integration (Google Maps, ESRI/ARC GIS, Mapbox, Leaflet, etc). 
